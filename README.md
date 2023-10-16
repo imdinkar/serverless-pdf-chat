@@ -145,7 +145,7 @@ VITE_USER_POOL_CLIENT_ID=874ghcej99f8iuo0lgdpbrmi76k
 Next, install the frontend's dependencies by running the following command in the `frontend` directory:
 
 ```bash
-npm ci
+npm ci or npm install
 ```
 
 Finally, to start the application locally, run the following command in the `frontend` directory:
